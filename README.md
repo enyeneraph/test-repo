@@ -10,4 +10,11 @@ To clone a repo
 3. To revert changes you added
    git restore --staged <file>
 
-4. 
+4. creating a branch
+    git checkout -b <newbranchname>
+
+5. committing staged changes
+    git commit -m <commit message>
+
+6. pushing changes
+   git push origin
